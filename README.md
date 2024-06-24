@@ -2,7 +2,7 @@
 <h3 align="center">IT Student From MOROCCO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eren&label=Profile%20views&color=0e75b6&style=flat" alt="eren" /> </p>
-
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=864128247255866146" height="292" width="345" frameborder="0" scrolling="no" ></iframe>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eren" alt="eren" /></a> </p>
 
 - 🔭 I’m currently working on **Discord Bot's**
