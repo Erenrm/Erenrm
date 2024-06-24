@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/yourimage.png](https://i.imgur.com/g8hYcC9.png)" alt="Eren's photo" width="200"/>
+  <img src="https://i.imgur.com/g8hYcC9.png" alt="Eren's photo" width="200"/>
 </p>
 g
 <h1 align="center">Hi 👋, I'm Eren</h1>
