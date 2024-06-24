@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eren&label=Profile%20views&color=0e75b6&style=flat" alt="eren" /> </p>
 <p align="center">
-  <img src="[URL_OF_YOUR_PHOTO](https://assets.pinterest.com/ext/embed.html?id=864128247255866146)" alt="Eren's photo" width="200"/>
+  <img src="[URL_OF_YOUR_PHOTO](https://imgur.com/xQfEukD)" alt="Eren's photo" width="200"/>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eren" alt="eren" /></a> </p>
 
